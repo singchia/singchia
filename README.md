@@ -22,4 +22,4 @@
 * [tigerbalm](https://github.com/jumboframes/tigerbalm): A ECMAScript FaaS(function as a service) framework in go. 一个简易ECMA FaaS框架，我们用它来做BFF。
 * [go-spider](https://github.com/singchia/go-spider): A golang spider frame. 简单的Go爬虫框架。
 * [igb](https://github.com/singchia/igb): IGB driver with xdp. 给IGB驱动添加XDP能力。
-* [gorcu](https://github.com/singchia/gorcu): QSBR RCU(read-copy update) for go. 遵从Lockfree哲学，go实现的RCU，不过因为Go是自动回收内存，所以目前是试验品。
+* [gorcu](https://github.com/singchia/gorcu): QSBR RCU(read-copy update) for go. 遵从Lockfree哲学，go实现的RCU，不过因为Go自动回收内存，所以目前是试验品。
