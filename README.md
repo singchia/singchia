@@ -1,3 +1,7 @@
+#### Products
+
+* [liaison](https://github.com/singchia/liaison): Instant, secure network reachability.
+
 #### Middlewares
 
 * [frontier](https://github.com/singchia/frontier): The first open source cloud-native tcp gateway for edges.
@@ -16,10 +20,3 @@
 * [Construction of trustchain for toB products.](https://github.com/singchia/slides/blob/main/Construction%20of%20trustchain%20for%20toB%20products.pdf)
 * [IDS at scaling.](https://github.com/singchia/slides/blob/main/IDS%20at%20scaling.pdf)
 * [The classic network.](https://github.com/singchia/slides/blob/main/The%20classic%20network.pdf)
-
-#### Toys
-
-* [tigerbalm](https://github.com/jumboframes/tigerbalm): A ECMAScript FaaS(function as a service) framework in go. 一个简易ECMA FaaS框架，我们用它来做BFF。
-* [go-spider](https://github.com/singchia/go-spider): A golang spider frame. 简单的Go爬虫框架。
-* [igb](https://github.com/singchia/igb): IGB driver with xdp. 给IGB驱动添加XDP能力。
-* [gorcu](https://github.com/singchia/gorcu): QSBR RCU(read-copy update) for go. 遵从Lockfree哲学，go实现的RCU，不过因为Go自动回收内存，所以目前是试验品。
