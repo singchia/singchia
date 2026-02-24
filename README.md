@@ -1,10 +1,10 @@
 #### Products
 
-* [liaison](https://github.com/singchia/liaison): Instant, secure network reachability.
+* [liaison](https://github.com/singchia/liaison): Liaison uses connectors to access devices and apps behind NAT. Connect home, office, and data center environments with stable, secure connectivity, without exposing LAN or home network ports.
 
 #### Middlewares
 
-* [frontier](https://github.com/singchia/frontier): The first open source cloud-native tcp gateway for edges.
+* [frontier](https://github.com/singchia/frontier): The first open-source, cloud-native TCP long-connection gateway for edge environments, enabling direct service-to-edge/client communication with RPC, messaging, and streams.
 * [conduit](https://github.com/moresec-io/conduit): A transparent proxy mesh. 
 
 #### Libraries
