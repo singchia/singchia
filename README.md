@@ -1,3 +1,7 @@
+#### AI
+
+* [gospec](https://github.com/singchia/gospec): Go backend SDLC spec skill for AI coding agents — 给 AI Agent 用的 Go 后端项目 SDLC 全流程中文规范
+
 #### Products
 
 * [liaison](https://github.com/singchia/liaison): Liaison uses connectors to access devices and apps behind NAT. Connect home, office, and data center environments with stable, secure connectivity, without exposing LAN or home network ports.
