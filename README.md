@@ -1,6 +1,6 @@
 #### AI
 
-* [gospec](https://github.com/singchia/gospec): Go backend SDLC spec skill for AI coding agents — 给 AI Agent 用的 Go 后端项目 SDLC 全流程中文规范
+* [gospec](https://github.com/singchia/gospec): Go backend SDLC spec skill for AI coding agents.
 
 #### Products
 
