@@ -14,6 +14,6 @@
 #### Libraries
 
 * [go-xtables](https://github.com/singchia/go-xtables): Go bindings for iptables, ebtables and arptables, which provide numerous features, extensions and more.
-* [geminio](https://github.com/singchia/geminio): A hybrid application-layer networking framework with support for messaging, RPC, bidirectional RPC, multiplexing, and maintaining client-server consistency.
+* [geminio](https://github.com/singchia/geminio): Bidirectional RPC, acked messaging, and stream multiplexing for Go — all behind a single `net.Conn`. Build IM, message queues, gateways, and NAT-traversal tunnels without glue code.
 * [go-timer](https://github.com/singchia/go-timer): A fast go timer with minimal goroutines.
 * [yafsm](https://github.com/singchia/yafsm): Yet another finite state machine.
