@@ -1,24 +1,24 @@
-### 🧰 Skills
+#### 🧰 Skills
 
 Tools and operating specs for AI coding agents.
 
 * [gospec](https://github.com/singchia/gospec): Go backend SDLC specification for AI coding agents.
 * [wyyp](https://github.com/singchia/wyyp): QA quality engineering skill with multi-dimensional verification, three-state checks, and weighted scoring.
 
-### 🚀 Products
+#### 🚀 Products
 
 Connectivity products for private networks, edge environments, and operational access.
 
 * [liaison](https://github.com/singchia/liaison): Connector-based access to devices and apps behind NAT. Link home, office, and data center environments with stable, secure connectivity without exposing LAN ports.
 
-### 🌐 Middlewares
+#### 🌐 Middlewares
 
 Network middleware for long-lived connections, edge gateways, and proxying.
 
 * [frontier](https://github.com/singchia/frontier): Cloud-native TCP long-connection gateway for edge environments, enabling direct service-to-edge/client communication with RPC, messaging, and streams.
 * [conduit](https://github.com/moresec-io/conduit): Transparent proxy mesh.
 
-### 📚 Libraries
+#### 📚 Libraries
 
 Focused infrastructure libraries for networking, protocol systems, timers, and state machines.
 
