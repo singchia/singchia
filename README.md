@@ -1,6 +1,7 @@
-#### AI
+#### Skills
 
 * [gospec](https://github.com/singchia/gospec): Go backend SDLC spec skill for AI coding agents.
+* [wyyp](https://github.com/singchia/wyyp): QA quality engineering skill for AI coding agents, with multi-dimensional verification and weighted scoring.
 
 #### Products
 
