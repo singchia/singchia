@@ -15,7 +15,7 @@ Connectivity products for private networks, edge environments, and operational a
 
 Network middleware for long-lived connections, edge gateways, and proxying.
 
-* [frontier](https://github.com/singchia/frontier): Cloud-native TCP long-connection gateway for edge environments, enabling direct service-to-edge/client communication with RPC, messaging, and streams.
+* [frontier](https://github.com/singchia/frontier): Bidirectional service-to-edge cloud-native gateway for long-lived connection.
 * [conduit](https://github.com/moresec-io/conduit): Transparent proxy mesh.
 
 #### 📚 Libraries
